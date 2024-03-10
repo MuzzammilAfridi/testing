@@ -1,0 +1,15 @@
+.page1{
+  height: 100vh;
+  width: 100vw;
+  background-color: green;
+}
+.page2{
+  height: 100vh;
+  width: 100vw;
+  background-color: rgb(128, 53, 0);
+}
+.page3{
+  height: 100vh;
+  width: 100vw;
+  background-color: rgb(0, 100, 128);
+}
